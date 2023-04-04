@@ -1,4 +1,4 @@
-[CI](https://github.com/MargaritaIko/ahj-task1-env/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/MargaritaIko/ahj-task1-env/actions/workflows/web.yml/badge.svg)
 # Webpack5
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
